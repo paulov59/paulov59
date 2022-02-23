@@ -1,13 +1,13 @@
-## Hi and welcome 👋
+## Hi 👋
 
 My name is Paulo Victor, I'm a software developer and undergraduate student of Computer Engineering at UFAL - Federal University of Alagoas.
 
 ## My Github's statitics
 <div align="center">
   <a href="https://github.com/paulov59">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=paulov59&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulov59&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulov59&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=paulov59&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paulov59&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulov59&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
   
 ## Contact with me
