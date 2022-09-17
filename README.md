@@ -9,6 +9,11 @@ My name is Paulo Victor, I'm a software developer and undergraduate student of C
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paulov59&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulov59&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
+<div> 
+
+  ![Snake animation](https://github.com/paulov59/paulov59/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
   
 ## Contact with me
 <div align="center"> 
@@ -17,8 +22,3 @@ My name is Paulo Victor, I'm a software developer and undergraduate student of C
   <a href = "mailto:paulo.severiano@lccv.ufal.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div> 
-
-  ![Snake animation](https://github.com/paulov59/paulov59/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
