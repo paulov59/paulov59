@@ -19,6 +19,6 @@ My name is Paulo Victor, I'm a software developer and undergraduate student of C
 
 <div> 
 
-  <!--![Snake animation](https://github.com/paulov59/paulov59/blob/output/github-contribution-grid-snake.svg)-->
+  ![Snake animation](https://github.com/paulov59/paulov59/blob/output/github-contribution-grid-snake.svg)
  
 </div>
