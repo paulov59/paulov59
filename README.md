@@ -1,6 +1,6 @@
 ## Hi 👋
 
-My name is Paulo Victor, I'm a software developer and undergraduate student of Computer Engineering at UFAL - Federal University of Alagoas.
+My name is Paulo Victor, I'm a software developer and undergraduate student of Computer Science at UFAL - Federal University of Alagoas.
 
 ## My Github's statitics
 <div align="center">
