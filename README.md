@@ -13,8 +13,8 @@
   <img src="https://github.com/paulov59/paulov59/blob/output/github-contribution-grid-snake.svg">
 </div> -->
   
+<h2>Contact with me</h2>
 <div align="center">
-    <h2>Contact with me</h2>
     <a href = "mailto:pvls2@ic.ufal.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/paulo-severiano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:paulo.victor@nees.ufal.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
