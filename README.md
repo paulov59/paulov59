@@ -9,9 +9,9 @@ My name is Paulo Victor, I'm a software developer and undergraduate student of C
   <img height="150em" src="https://github-readme-stats-paulov59.vercel.app/api?username=paulov59&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats-paulov59.vercel.app/api/top-langs/?username=paulov59&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
 </div>
-<div> 
+<!-- <div> 
   <img src="https://github.com/paulov59/paulov59/blob/output/github-contribution-grid-snake.svg">
-</div>
+</div> -->
   
 ## Contact with me
 <div> 
