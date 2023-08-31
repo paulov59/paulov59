@@ -1,6 +1,6 @@
 <h2>Hi 👋</h2>
 
-<p>My name is Paulo Victor, I'm a backend developer, database and web development teacher at National Service of Industrial Learning - SENAI/AL and undergraduate student of Computer Science at Federal University of Alagoas - UFAL.</p>
+<p>My name is Paulo Victor, I'm a backend developer and undergraduate student of Computer Science at Federal University of Alagoas - UFAL.</p>
 
 <h2>My Github's statitics</h2>
 <div align="center">
