@@ -9,10 +9,7 @@
   <img height="150em" src="https://github-readme-stats-paulov59.vercel.app/api?username=paulov59&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats-paulov59.vercel.app/api/top-langs/?username=paulov59&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
 </div>
-<!-- <div> 
-  <img src="https://github.com/paulov59/paulov59/blob/output/github-contribution-grid-snake.svg">
-</div> -->
-  
+
 <h2>Contact with me</h2>
 <div align="center">
     <a href = "mailto:pvls2@ic.ufal.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
