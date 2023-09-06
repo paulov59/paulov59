@@ -1,7 +1,7 @@
 <h2>Hi 👋</h2>
 
 <p>My name is Paulo Victor, I'm a backend developer and undergraduate student of Computer Science at Federal University of Alagoas - UFAL.</p>
-
+<hr>
 <h2>My Github's statitics</h2>
 <div align="center">
   <a href="https://github.com/paulov59">
