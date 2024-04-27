@@ -1,0 +1,38 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "datas",
+        "kind": 5,
+        "importPath": "gitstack",
+        "description": "gitstack",
+        "peekOfCode": "datas = ['2024-04-12', '2024-04-16', '2024-04-19']\ntext = '''<h2>Hi 👋</h2>\n<p>My name is Paulo Victor, I'm a backend developer and undergraduate student of Computer Science at Federal University of Alagoas - UFAL.</p>\n<hr>\n<h2>My Github's statitics</h2>\n<div align=\"center\">\n  <a href=\"https://github.com/paulov59\">\n  <img height=\"150em\" src=\"https://github-readme-streak-stats.herokuapp.com/?user=paulov59&theme=github-dark-blue&hide_border=true\"/>\n  <img height=\"150em\" src=\"https://github-readme-stats-paulov59.vercel.app/api?username=paulov59&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true&hide_border=true\"/>\n  <img height=\"200em\" src=\"https://github-readme-stats-paulov59.vercel.app/api/top-langs/?username=paulov59&layout=compact&langs_count=7&theme=github_dark&hide_border=true\"/>",
+        "detail": "gitstack",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "kind": 5,
+        "importPath": "gitstack",
+        "description": "gitstack",
+        "peekOfCode": "text = '''<h2>Hi 👋</h2>\n<p>My name is Paulo Victor, I'm a backend developer and undergraduate student of Computer Science at Federal University of Alagoas - UFAL.</p>\n<hr>\n<h2>My Github's statitics</h2>\n<div align=\"center\">\n  <a href=\"https://github.com/paulov59\">\n  <img height=\"150em\" src=\"https://github-readme-streak-stats.herokuapp.com/?user=paulov59&theme=github-dark-blue&hide_border=true\"/>\n  <img height=\"150em\" src=\"https://github-readme-stats-paulov59.vercel.app/api?username=paulov59&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true&hide_border=true\"/>\n  <img height=\"200em\" src=\"https://github-readme-stats-paulov59.vercel.app/api/top-langs/?username=paulov59&layout=compact&langs_count=7&theme=github_dark&hide_border=true\"/>\n</div>",
+        "detail": "gitstack",
+        "documentation": {}
+    },
+    {
+        "label": "text2",
+        "kind": 5,
+        "importPath": "gitstack",
+        "description": "gitstack",
+        "peekOfCode": "text2 = '''<h2>Hi 👋</h2>\n<p>My name is Paulo Victor, I'm a backend developer and undergraduate student of Computer Science at Federal University of Alagoas - UFAL.</p>\n<hr>\n<h2>My Github's statitics</h2>\n<div align=\"center\">\n  <a href=\"https://github.com/paulov59\">\n  <img height=\"150em\" src=\"https://github-readme-streak-stats.herokuapp.com/?user=paulov59&theme=github-dark&hide_border=true\"/>\n  <img height=\"150em\" src=\"https://github-readme-stats-paulov59.vercel.app/api?username=paulov59&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true&hide_border=true\"/>\n  <img height=\"200em\" src=\"https://github-readme-stats-paulov59.vercel.app/api/top-langs/?username=paulov59&layout=compact&langs_count=7&theme=github_dark&hide_border=true\"/>\n</div>",
+        "detail": "gitstack",
+        "documentation": {}
+    }
+]
