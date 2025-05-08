@@ -5,7 +5,7 @@
 <h2>My Github's statitics</h2>
 <div align="center">
   <a href="https://github.com/paulov59">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=paulov59&theme=github-dark-blue&hide_border=true"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=paulov59&theme=github-dark-blue&hide_border=true&short_numbers=true"/>
   <img height="150em" src="https://github-readme-stats-paulov59.vercel.app/api?username=paulov59&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true&hide_border=true"/>
   <img height="200em" src="https://github-readme-stats-paulov59.vercel.app/api/top-langs/?username=paulov59&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
 </div>
